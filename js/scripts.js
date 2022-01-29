@@ -63,7 +63,7 @@ function updateTime() {
   var rnd = Math.floor(Math.random() * (15 - 4)) + 15;
   
   time = time + rnd;
-  if(time > 900){
+  if(time > 980){
     time = 232;
   }
   let secs = time;
