@@ -64,7 +64,7 @@ function updateTime() {
   
   time = time + rnd;
   if(time > 900){
-    time = 900;
+    time = 232;
   }
   let secs = time;
 
